@@ -1,0 +1,14 @@
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\bin\Debug\net8.0\Дз семинар 8.exe
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\bin\Debug\net8.0\Дз семинар 8.deps.json
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\bin\Debug\net8.0\Дз семинар 8.runtimeconfig.json
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\bin\Debug\net8.0\Дз семинар 8.dll
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\bin\Debug\net8.0\Дз семинар 8.pdb
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\Дз семинар 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\Дз семинар 8.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\Дз семинар 8.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\Дз семинар 8.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\Дз семинар 8.dll
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\refint\Дз семинар 8.dll
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\Дз семинар 8.pdb
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\Дз семинар 8.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Прошрамирование\Дз семинар 8\obj\Debug\net8.0\ref\Дз семинар 8.dll
